@@ -1,6 +1,7 @@
 # 03 JavaScript: Password Generator
 
 ## Link to the application:
+https://jali001.github.io/Password-Generator/
 
 
 ## Your Task
